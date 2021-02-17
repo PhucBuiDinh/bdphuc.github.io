@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Cogito Interruptus Vulgaris</title>
-    <link>https://www.control-alt-del.org/categories/</link>
+    <link>https://bdphuc.github.io/categories/</link>
     <description>Recent content in Categories on Cogito Interruptus Vulgaris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Mark Steele</copyright><atom:link href="https://www.control-alt-del.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Mark Steele</copyright><atom:link href="https://bdphuc.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
