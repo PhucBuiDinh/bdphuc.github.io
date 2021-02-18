@@ -6,16 +6,6 @@
     <description>Recent content in Categories on Cogito Interruptus Vulgaris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Mark Steele</copyright>
-    <lastBuildDate>Thu, 18 Feb 2021 15:18:06 +0900</lastBuildDate><atom:link href="https://bdphuc.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>news</title>
-      <link>https://bdphuc.github.io/categories/news/</link>
-      <pubDate>Thu, 18 Feb 2021 15:18:06 +0900</pubDate>
-      
-      <guid>https://bdphuc.github.io/categories/news/</guid>
-      <description></description>
-    </item>
-    
+    <copyright>Mark Steele</copyright><atom:link href="https://bdphuc.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
